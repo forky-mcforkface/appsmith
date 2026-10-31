@@ -13586,7 +13586,7 @@ __metadata:
     llamaindex: 0.9.0
     loglevel: ^1.8.1
     mongodb: ^5.8.0
-    nodemailer: 9.0.1
+    nodemailer: 10.1.4
     readline-sync: 1.4.10
     simple-git: ^3.32.3
     supertest: ^6.3.3
@@ -26366,10 +26366,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemailer@npm:9.0.1":
-  version: 9.0.1
-  resolution: "nodemailer@npm:9.0.1"
-  checksum: 7b8544b855b37e868f0cd596eb2afe5a9d0a54411c3c6db248c42d3f1a493cbe7e27d44ce10ad1720883175a4ad07339faffa596eab24b7ced7ef01fd63e7315
+"nodemailer@npm:10.1.4":
+  version: 10.1.4
+  resolution: "nodemailer@npm:10.1.4"
+  checksum: 8acb1276cb14c07b81f2df1306b579e21e31c48ed660d0878ad3f29b2da50da936d002f3c253a0e118e199bef08aa1b9b163f5c92b1f07c24f3c011ba31278a8
   languageName: node
   linkType: hard
 
